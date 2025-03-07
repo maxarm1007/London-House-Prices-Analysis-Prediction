@@ -27,7 +27,7 @@ Data Loading & Exploration\
 Data Cleaning & Preprocessing\
 •	Removed unnecessary columns (e.g., Address which is not useful for numerical prediction).\
 •	Identified missing values and handled them appropriately.\
-•	Generated correlation heatmaps using Seaborn to analyze feature relationships.\
+•	Generated correlation heatmaps using Seaborn to analyse feature relationships.\
 
 Feature Selection & Splitting\
 •	Defined X (independent variables) and Y (target variable: Price).\

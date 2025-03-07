@@ -7,7 +7,7 @@ This project analyses and predicts house prices in London using machine learning
 - Data Cleaning & Exploration: Handling missing values and exploring correlations using heatmaps.\
 - Feature Engineering: Removing non-numeric columns (e.g., addresses) to improve model performance.\
 - Machine Learning Model: Implemented an XGBoost Regressor for price prediction.\
- -Evaluation Metrics: Assessed model accuracy using standard regression metrics.
+- Evaluation Metrics: Assessed model accuracy using standard regression metrics.
 
 <h2>Tech Stack:</h2>
 

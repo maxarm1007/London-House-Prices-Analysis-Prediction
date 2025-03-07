@@ -4,16 +4,16 @@ This project analyses and predicts house prices in London using machine learning
 
 <h2>Key Features:</h2>
   
-- Data Cleaning & Exploration: Handling missing values and exploring correlations using heatmaps.\
-- Feature Engineering: Removing non-numeric columns (e.g., addresses) to improve model performance.\
-- Machine Learning Model: Implemented an XGBoost Regressor for price prediction.\
+- Data Cleaning & Exploration: Handling missing values and exploring correlations using heatmaps.
+- Feature Engineering: Removing non-numeric columns (e.g., addresses) to improve model performance.
+- Machine Learning Model: Implemented an XGBoost Regressor for price prediction.
 - Evaluation Metrics: Assessed model accuracy using standard regression metrics.
 
 <h2>Tech Stack:</h2>
 
-- Python, Pandas, NumPy, Matplotlib, Seaborn\
-- Scikit-Learn, XGBoost\
-- Jupyter Notebook\
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-Learn, XGBoost
+- Jupyter Notebook
 
 This project demonstrates data preprocessing, feature selection, and predictive modelling techniques, making it a great example of real-world machine learning applications in real estate.
 

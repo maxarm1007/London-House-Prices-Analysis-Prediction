@@ -1,6 +1,6 @@
 # London House Prices Analysis Prediction
 
-This project analyzes and predicts house prices in London using machine learning techniques. The dataset contains various features about properties, including prices and addresses.
+This project analyses and predicts house prices in London using machine learning techniques. The dataset contains various features about properties, including prices and addresses.
 
 <h2>Key Features:</h2>
   
@@ -15,7 +15,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn\
 Scikit-Learn, XGBoost\
 Jupyter Notebook\
 
-This project demonstrates data preprocessing, feature selection, and predictive modeling techniques, making it a great example of real-world machine learning applications in real estate.
+This project demonstrates data preprocessing, feature selection, and predictive modelling techniques, making it a great example of real-world machine learning applications in real estate.
 
 <h2>Project Workflow</h2>
 

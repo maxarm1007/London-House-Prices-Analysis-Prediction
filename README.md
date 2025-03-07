@@ -1,4 +1,4 @@
-# London-House-Prices-Analysis-Prediction
+# London House Prices Analysis Prediction
 
 This project analyzes and predicts house prices in London using machine learning techniques. The dataset contains various features about properties, including prices and addresses.
 
